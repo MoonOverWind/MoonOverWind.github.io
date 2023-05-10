@@ -1,0 +1,25 @@
+h1{
+    color: blueviolet;
+}
+
+body{
+    background-color: gray;
+}
+
+div{
+   color: black;
+   background-color: gray;
+   border: 6px solid white;
+   border-radius: 10px;
+   text-align: center;
+   width: 100px;
+   font-size: 30px;
+   font-family: arial;
+}
+
+img{
+  height: 100px;
+  width:  100px;
+  border: 100px;
+
+}
